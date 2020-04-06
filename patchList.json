@@ -1,7 +1,5 @@
 {
     "version": "1.0.0",
-    "files": {
-        "test_text.txt": "md5",
-        "test_text_2.txt": "md5"
-    }
+    "files": ["test_text.txt", "test_text_2.txt"],
+    "files_md5": ["md5", "md5"]
 }
