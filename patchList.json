@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "files": {
+        "test_text.txt": "md5",
+        "test_text_2.txt": "md5"
+    }
+}
